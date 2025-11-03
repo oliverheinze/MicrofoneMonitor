@@ -21,8 +21,11 @@ As soon as the configured (-20 dB) limit is exceeded it will prompt this:
 ![](https://github.com/oliverheinze/MicrofoneMonitor/blob/main/Microfone%20Monitor%20macOS%2018/Pasted%20image%2020251103232356.png?raw=true)
 
 With this you will know that you (or your environment) are too loud.
-The threashold can easily be adjusted by simply modifying the variable 
-`let LOUD_THRESHOLD: Float = -20.0` to your liking.
+The threashold can easily be adjusted by simply modifying the variable
+
+`let LOUD_THRESHOLD: Float = -20.0`
+
+to your liking.
 Remember: The more you move to 0, the more tolerant it will get. In case of questions about digital signal processing, please visit: https://en.wikipedia.org/wiki/DBFS
 
 ## Call for contribution
