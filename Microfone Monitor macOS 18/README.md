@@ -14,7 +14,7 @@ Usage is quite simple, just open your terminal and put int
 ![](https://github.com/oliverheinze/MicrofoneMonitor/blob/main/Microfone%20Monitor%20macOS%2018/Pasted%20image%2020251103232052.png?raw=true)
 
 As soon as the configured (-20 dB) limit is exceeded it will prompt this:
-![](./Pasted image 20251103232356.png)
+![](https://github.com/oliverheinze/MicrofoneMonitor/blob/main/Microfone%20Monitor%20macOS%2018/Pasted%20image%2020251103232356.png?raw=true)
 
 With this you will know that you (or your environment) are too loud.
 The threashold can easily be adjusted by simply modifying the variable 
