@@ -10,6 +10,7 @@ This tool is designed to monitor the microphone input and measure it in -dB. Thi
 
 ### Limitations
 The software of course can only measure the audio levels which are transferred by the microphones, so please be aware that in case the microphone of your headset has some magic noise cancellation, the values displyed in this software are wrong.
+Also Push Notifications are not supported at this point.
 
 Unfortunately, it's just some code, not magic...
 
