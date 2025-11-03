@@ -30,4 +30,4 @@ Feel free to enhance this. I would be so happy to see some neat business softwar
 
 ## Sorry
 English is not my first language. Please excuse spelling mistakes. Thank you so much.
-Happily programmed in 🇩🇪 Germany.
+\rHappily programmed in 🇩🇪 Germany.
