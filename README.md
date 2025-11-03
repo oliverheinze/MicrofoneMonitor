@@ -6,7 +6,7 @@ This macOS Software monitors your Microphone input and warns you, if it gets too
 This Software is devolped for macOS. It was tested on macOS 15.7.1 and macOS 26.0.1 and is written in Swift.
 
 ### Purpose
-This tool is designed to monitor the microphone input and measure it in -dB. This allows you to see if you are talking too loud in phone calls and probably disturbing your colleagues (or your wife/husband if available). It is set to -20 dB. but feel free to adjust the value to your liking. It can also recognize if the imput has been changed, e. g. if a headset has been connected or disconnected and it will level the audio level automatically.
+This tool is designed to monitor the microphone input and measure it in -dB. This allows you to see if you are talking too loud in phone calls and probably disturbing your colleagues (or your wife/husband if available). It is set to -20 dB. This value is the usual one for normal spreaking volume. But feel free to adjust the value to your liking. It can also recognize if the imput has been changed, e. g. if a headset has been connected or disconnected and it will level the audio level automatically.
 
 ### Limitations
 The software of course can only measure the audio levels which are transferred by the microphones, so please be aware that in case the microphone of your headset has some magic noise cancellation, the values displyed in this software are wrong.
