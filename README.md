@@ -29,5 +29,7 @@ Remember: The more you move to 0, the more tolerant it will get. In case of ques
 Feel free to enhance this. I would be so happy to see some neat business software someday which would address the problem of too loud speaking colleagues.
 
 ## Sorry
-English is not my first language. Please excuse spelling mistakes. Thank you so much.
+English is not my first language. Please excuse spelling mistakes.
+
+Thank you so much.
 Happily programmed in 🇩🇪 Germany.
